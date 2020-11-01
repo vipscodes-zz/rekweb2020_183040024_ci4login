@@ -10,6 +10,7 @@ class Email extends BaseConfig
 	/**
 	 * @var string
 	 */
+	//emnail dan password dikosongkan
 	public $fromEmail = '';
 
 	/**
